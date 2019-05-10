@@ -1,2 +1,2 @@
 # imooc
-IMMOC DEMO
+IMOOC DEMO
